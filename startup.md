@@ -34,31 +34,31 @@
 
 ---
 
-![первый слайд - Мария](/home/nur/Downloads/cy_images/CY_-_Business_idea_(04.08.2025)_page-0004.jpg)
+![первый слайд - Мария](./CY_-_Business_idea_(04.08.2025)_page-0004.jpg)
 
 ---
 
-![второй слайд - Нурлан](/home/nur/Downloads/cy_images/CY_-_Business_idea_(04.08.2025)_page-0005.jpg)
+![второй слайд - Нурлан](./CY_-_Business_idea_(04.08.2025)_page-0005.jpg)
 
 ---
 
-![третий слайд - Виктория](/home/nur/Downloads/cy_images/CY_-_Business_idea_(04.08.2025)_page-0006.jpg)
+![третий слайд - Виктория](./CY_-_Business_idea_(04.08.2025)_page-0006.jpg)
 
 ---
 
-![четвертый слайд - Никита](/home/nur/Downloads/cy_images/CY_-_Business_idea_(04.08.2025)_page-0007.jpg)
+![четвертый слайд - Никита](./CY_-_Business_idea_(04.08.2025)_page-0007.jpg)
 
 ---
 
-![пятый слайд - Федор](/home/nur/Downloads/cy_images/CY_-_Business_idea_(04.08.2025)_page-0008.jpg)
+![пятый слайд - Федор](./CY_-_Business_idea_(04.08.2025)_page-0008.jpg)
 
 ---
 
-![шестой слайд - Айгуль](/home/nur/Downloads/cy_images/CY_-_Business_idea_(04.08.2025)_page-0009.jpg)
+![шестой слайд - Айгуль](./CY_-_Business_idea_(04.08.2025)_page-0009.jpg)
 
 ---
 
-![седьмой слайд - Что общего?](/home/nur/Downloads/cy_images/CY_-_Business_idea_(04.08.2025)_page-0010.jpg)
+![седьмой слайд - Что общего?](./CY_-_Business_idea_(04.08.2025)_page-0010.jpg)
 
 ---
 
@@ -97,7 +97,7 @@
 
 ### Суть проекта
 
-![это Мария](/home/nur/Downloads/cy_images/CY_-_Business_idea_(04.08.2025)_page-0012.jpg)
+![это Мария](./CY_-_Business_idea_(04.08.2025)_page-0012.jpg)
 
 Я уже реализовал MVP приложения и приведу выдержки со страницы "О проекте":
 
